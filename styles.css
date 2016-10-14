@@ -1,0 +1,6 @@
+h2 {color: #330066;}
+h3 {color: #330066; font-size:15pt; font-weight:normal;}
+body {margin:10px; background: #FFFFFF; color: black; font-family: Arial; font-size:10pt; }
+a:link, a:active, a:visited { color:#003399; text-decoration:none; font-weight:normal; } 
+a:hover { background-color: #FFFFFF; text-decoration:underline }
+td {font-family: Arial; font-size:11pt; }
